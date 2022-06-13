@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Sushi,Dumpling,Watermelon Fansite</title>
+  <link rel="stylesheet" href="css/style.CSS">
+</head>
+
+<body>
+  <h1 id="heading1">I Love Sushi</h1>
+  <p class="su" >Sushi,Sushi,Sushi,Sushi,Sushi,Sushi</p>
+  <p class="su" >Sushi,Sushi,Sushi,Sushi,Sushi,Sushi</p>
+  <p class="su" >Sushi,Sushi,Sushi,Sushi,Sushi,Sushi</p>
+  <p class="su" >Sushi,Sushi,Sushi,Sushi,Sushi,Sushi</p>
+  <img class="RO" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/sushi_1f363.png" alt="Sushi-img">
+  <img class="RR" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/sushi_1f363.png" alt="Sushi-img">
+  <hr>
+  <h1 class="heading2">I Love Dumpling</h1>
+  <p class="du" >Dumpling,Dumpling,Dumpling,Dumpling,Dumpling,Dumpling</p>
+  <p class="du" >Dumpling,Dumpling,Dumpling,Dumpling,Dumpling,Dumpling</p>
+  <p class="du" >Dumpling,Dumpling,Dumpling,Dumpling,Dumpling,Dumpling</p>
+  <p class="du" >Dumpling,Dumpling,Dumpling,Dumpling,Dumpling,Dumpling</p>
+  <img class="D" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/dumpling_1f95f.png" alt=>
+  <hr>
+  <h1 class="heading3" >I Love Watermelon</h1>
+  <p class="wa" >Watermelon,Watermelon,Watermelon,Watermelon,Watermelon</p>
+  <p class="wa" >Watermelon,Watermelon,Watermelon,Watermelon,Watermelon</p>
+  <p class="wa" >Watermelon,Watermelon,Watermelon,Watermelon,Watermelon</p>
+  <p class="wa" >Watermelon,Watermelon,Watermelon,Watermelon,Watermelon</p>
+  <img class="W1" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/watermelon_1f349.png" alt="">
+  <img class="W2" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/watermelon_1f349.png" alt="">
+
+</body>
+
+</html>
