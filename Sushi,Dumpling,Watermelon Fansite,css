@@ -1,0 +1,44 @@
+/*******************************TEG SELECTOR*******************************/
+
+p{
+  color: #383838;
+}
+
+
+/*******************************CLASS SELECTOR*******************************/
+
+.RO {
+  background-color: #E04D01;
+}
+.RR {
+  background-color: #FFA1A1;
+}
+.D{
+  background-color :#FEFBE7;
+}
+.heading2{
+  color: #D7A86E;
+}
+.du{
+  color: #EBD8C3;
+}
+.su{
+  color: #FF5F00;
+}
+.W1{
+  background-color: #83BD75;
+}
+.W2{
+  background-color: #B4FF9F;
+}
+.heading3{
+  color: #99FFCD;
+}
+.wa{
+  color: #85C88A;
+}
+/*******************************ID SELECTOR*******************************/
+
+#heading1{
+  color: #E04D01;
+}
